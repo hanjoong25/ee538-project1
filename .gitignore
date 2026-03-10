@@ -1,0 +1,5 @@
+# ignore any file containing "solution" in its name
+*solution*
+
+# ignore VS Code workspace settings folder
+.vscode/
